@@ -1,0 +1,11 @@
+/* BookingConfirmation.css */
+.confirmation-message {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 1.5rem;
+    color: #64b5f6;
+  }
+  
