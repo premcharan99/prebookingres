@@ -83,7 +83,7 @@ const Navbar = () => {
     <nav style={styles.navbar}>
       <div style={styles.container}>
         <Link to="/" style={styles.logo}>
-          SpotIt
+          Spot At
         </Link>
         <div style={styles.nav}>
           <Link 
@@ -111,7 +111,7 @@ const Navbar = () => {
                   style={styles.dropdownItem}
                   onClick={() => setIsUserMenuOpen(false)}
                 >
-                  Sign Out
+                  See History
                 </div>
               </div>
             )}
